@@ -2,7 +2,7 @@
     <div class="container">
         <div class="section-title text-center">
             <h3>What Our
-                <span>Patients Says</span>
+                <span>Students Says</span>
             </h3>
         </div>
         <div class="testimonial-carousel">
