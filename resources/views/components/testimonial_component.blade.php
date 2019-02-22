@@ -10,74 +10,29 @@
             <div class="slide-item">
                 <div class="inner-box text-center">
                     
-                    <h6>Adam Rose</h6>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia consectetur, dolor sit amet, consectetur, numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, at?</p>
+                    <h6>Akriti Gupta</h6>
+                    <p>
+                        Best institute ever! I had researched all air hostess training institutes and found them the best. I don't regret joining here.
+                    </p>
                 </div>
             </div>
             <!--Slide Item-->
             <div class="slide-item">
                 <div class="inner-box text-center">
                     
-                    <h6>David Warner</h6>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia consectetur, dolor sit amet, consectetur, numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, at?</p>
+                    <h6>Vishal Pandey</h6>
+                    <p>My daughter got trained by them and she is very happy with her job.</p>
                 </div>
             </div>
             <!--Slide Item-->
             <div class="slide-item">
                 <div class="inner-box text-center">
                     
-                    <h6>Amy Adams</h6>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia consectetur, dolor sit amet, consectetur, numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, at?</p>
+                    <h6>Kavya Reddy</h6>
+                    <p>Very happy with the staff and syllabus. Great career options ahead.</p>
                 </div>
             </div>
-            <!--Slide Item-->
-            <div class="slide-item">
-                <div class="inner-box text-center">
-                    
-                    <h6>Adam Rose</h6>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia consectetur, dolor sit amet, consectetur, numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, at?</p>
-                </div>
-            </div>
-            <!--Slide Item-->
-            <div class="slide-item">
-                <div class="inner-box text-center">
-                   
-                    <h6>David Warner</h6>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia consectetur, dolor sit amet, consectetur, numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, at?</p>
-                </div>
-            </div>
-            <!--Slide Item-->
-            <div class="slide-item">
-                <div class="inner-box text-center">
-                    
-                    <h6>Amy Adams</h6>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia consectetur, dolor sit amet, consectetur, numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, at?</p>
-                </div>
-            </div>
-            <!--Slide Item-->
-            <div class="slide-item">
-                <div class="inner-box text-center">
-                    
-                    <h6>Adam Rose</h6>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia consectetur, dolor sit amet, consectetur, numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, at?</p>
-                </div>
-            </div>
-            <!--Slide Item-->
-            <div class="slide-item">
-                <div class="inner-box text-center">
-                    
-                    <h6>David Warner</h6>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia consectetur, dolor sit amet, consectetur, numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, at?</p>
-                </div>
-            </div>
-            <!--Slide Item-->
-            <div class="slide-item">
-                <div class="inner-box text-center">
-                   
-                    <h6>Amy Adams</h6>
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia consectetur, dolor sit amet, consectetur, numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, at?</p>
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>

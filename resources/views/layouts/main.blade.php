@@ -82,7 +82,7 @@
                   <figure>
                         <a href="/">
                               <!-- <img src="{{ asset('front/images/logo.png') }}" alt="" width="130"> -->
-                              Blue Hadal Aviation Dreams
+                              <span class="span-1">Blue Hadal Aviation Dreams</span>
                         </a>
                   </figure>
             </div>
@@ -105,6 +105,8 @@
                               <strong>Call Us Now</strong>
                               <br>
                               <span>+91-8394012943</span>
+                              <br>
+                              <span>+91-9412017116</span>
                         </li>
                         <li class="item">
                               <div class="icon-box">
@@ -197,18 +199,19 @@
       <div class="row">
         <div class="col-md-4 col-sm-6 col-xs-12">
           <div class="about-widget">
-            <div class="footer-logo">
+            <!-- <div class="footer-logo">
               <figure>
                 <a href="index.html">
                   <img src="{{ asset('front/images/logo-2.png') }}" alt="">
                 </a>
               </figure>
-            </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, temporibus?</p>
+            </div> -->
+            <p>Ground Floor, Ghanshala Dental Care,</p>
+            <p> Chakrata Road,Near Ballupur Chowk </p>
             <ul class="location-link">
               <li class="item">
                 <i class="fa fa-map-marker"></i>
-                <p>Dehradun, India</p>
+                <p>Dehradun, Uttarakhand, India- 248001</p>
               </li>
               <li class="item">
                 <i class="fa fa-envelope-o" aria-hidden="true"></i>
@@ -219,6 +222,7 @@
               <li class="item">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <p>+91-8394012943</p>
+                <p>+91-9412017116</p>
               </li>
             </ul>
             <!-- <ul class="list-inline social-icons">
@@ -277,8 +281,8 @@
   <div class="footer-bottom">
     <div class="container clearfix">
       <div class="copyright-text">
-        <p>&copy; Copyright 2010. All Rights Reserved by
-          <a href="index.html" target="_blank">Digital Bharat</a>
+        <p>&copy; Copyright 2019. All Rights Reserved by
+          <a href="" target="_blank">Digital Bharat</a>
         </p>
       </div>
       <ul class="footer-bottom-link">

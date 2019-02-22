@@ -61,7 +61,7 @@
         </div>
     </div>
 </section>
-<section class="feature-section section bg-gray">
+<!-- <section class="feature-section section bg-gray">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-xs-12">
@@ -78,7 +78,7 @@
 						<div class="col-sm-6">
 							<div class="item">
 								
-								<h6>Some Content</h6>
+								<h6>Diploma in Aviation, Hospitality and Tourism (One Year)</h6>
 								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil ducimus veniam illo quibusdam pariatur ex sunt, est aspernatur 
 									at debitis eius vitae vel nostrum dolorem labore autem corrupti odit mollitia?</p>
 							</div>
@@ -112,7 +112,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section class="service-tab-section section">
     <div class="outer-box clearfix">
@@ -320,81 +320,11 @@
 @endcomponent
 <section class="appoinment-section section">
     <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-12 col-xs-12">
-                <div class="accordion-section">
-    <div class="section-title">
-        <h3>FAQ</h3>
-    </div>
-    <div class="accordion-holder">
-        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-            <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="headingOne">
-                    <h4 class="panel-title">
-                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            Why Should I choose our institute
-                        </a>
-                    </h4>
-                </div>
-                <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                    <div class="panel-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
-                        non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor,
-                        sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh
-                        helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher
-                        vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't
-                        heard of them accusamus labore sustainable VHS.
-                    </div>
-                </div>
+        <div class="row">            
+            <div class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12" id="contact-form">
+                @component('components.contact-component')
+                @endcomponent                           
             </div>
-            <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="headingTwo">
-                    <h4 class="panel-title">
-                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false"
-                            aria-controls="collapseTwo">
-                            What are the Centre’s visiting hours?
-                        </a>
-                    </h4>
-                </div>
-                <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                    <div class="panel-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
-                        non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor,
-                        sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh
-                        helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher
-                        vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't
-                        heard of them accusamus labore sustainable VHS.
-                    </div>
-                </div>
-            </div>
-            <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="headingThree">
-                    <h4 class="panel-title">
-                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false"
-                            aria-controls="collapseThree">
-                            How many visitors are allowed?
-                        </a>
-                    </h4>
-                </div>
-                <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                    <div class="panel-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
-                        non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor,
-                        sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh
-                        helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher
-                        vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't
-                        heard of them accusamus labore sustainable VHS.
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-            </div>
-<div class="col-md-6 col-sm-12 col-xs-12" id="contact-form">
-    @component('components.contact-component')
-    @endcomponent                           
-</div>
         </div>                    
     </div>
 </section>
